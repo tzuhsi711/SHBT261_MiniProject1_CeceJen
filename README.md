@@ -1,7 +1,9 @@
 # SHBT261_MiniProject1_CeceJen
 Mini-Project 1: Image Classification with Caltech-101 Dataset
 
-### Your Goals
+## Guidelines
+---
+### Goals
 - Train and evaluate at least three different methods for image classification. For example: ResNet, EfficientNet, ViT, and newer ones.
 - Compare classical machine learning and deep learning methods.
 - Write a report including:
